@@ -2,10 +2,10 @@
 
 using namespace std;
 
-int main () (
-    cout <<"hola mundo" << endl;
-    cout <<"programa"; << endl;
+int main () {
+    cout << "hola mundo" << endl;
+    cout << "mi nombre es c++" << endl;
 
-    return 0;
-    
-)
+    return 0; 
+}
+  
