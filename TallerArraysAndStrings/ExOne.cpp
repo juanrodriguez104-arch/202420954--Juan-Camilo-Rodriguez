@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-juanito
+
 int countTotal(string text) {
     int total = 0;
     for (int i = 0; i < text.length(); i++) {
