@@ -13,9 +13,9 @@ void showProducts() {
         total += prices[i];
     }
 
-    cout << "\nSuma total de precios: $" << total << endl;
+    cout << "Suma total de precios: $" << total << endl;
 
-    cout << "\nProductos con precio mayor o igual a $2500:" << endl;
+    cout << "Productos con precio mayor o igual a $2500:" << endl;
 
     for (int i = 0; i < 5; i++) {
         if (prices[i] >= 2500) {

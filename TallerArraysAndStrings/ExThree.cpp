@@ -14,7 +14,7 @@ void showAverageAge() {
 
     float average = (float)total / 6;
 
-    cout << "\nEl promedio de edades es: " << average << endl;
+    cout << "El promedio de edades es: " << average << endl;
 }
 
 int main() {

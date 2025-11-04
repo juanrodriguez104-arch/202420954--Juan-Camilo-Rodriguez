@@ -21,9 +21,9 @@ void showPrices() {
         }
     }
 
-    cout << "\nSuma total de precios: $" << total << endl;
-    cout << "Precio más alto: $" << highest << endl;
-    cout << "Precio más bajo: $" << lowest << endl;
+    cout << "Suma total de precios: $" << total << endl;
+    cout << "Precio mas alto: $" << highest << endl;
+    cout << "Precio mas bajo: $" << lowest << endl;
 }
 
 int main() {
