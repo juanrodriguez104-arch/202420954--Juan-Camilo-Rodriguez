@@ -1,6 +1,6 @@
 void filterByWeightAndReplace(string*& names, int*& weights, bool*& delivered, int& size) {
     if (size == 0) {
-        cout << "No hay paquetes.\n";
+        cout << "No hay paquetes." endl;
         return;
     }
 
